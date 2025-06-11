@@ -15,5 +15,7 @@ Status of documentation in this repo: Has been rollbacked to commit [`de80adf`](
 >  Currently, all download links and Docker images have been replaced with content from Guizhou Bugou Tech Co. Ltd. 
 
 ## 其他的社区Alist Fork | Other Community Alist Forks
-- [NodeSeekDev/nlist-docs](https://github.com/NodeSeekDev/nlist-docs)
-- [AlistTeam/docs](https://github.com/AlistTeam/docs)
+- [AlistTeam/alist](https://github.com/AlistTeam/docs)
+- [NodeSeekDev/nlist](https://github.com/NodeSeekDev/nlist-docs)
+- [alist-Neofree](https://github.com/alist-Neofree)
+- [NextList/Nlist](https://github.com/NextList/Nlist)
